@@ -104,8 +104,6 @@ making the pipeline adaptable for different research objectives.
     │
     ├── requirements.txt
     ├── .gitignore
-    └── pipeline_env
-
 ------------------------------------------------------------------------
 
 # File Description
@@ -218,7 +216,7 @@ the correct path.
 ------------------------------------------------------------------------
 
 ## Dataset Structure Expected
-
+```text
 Gated_release_final
 │
 ├── calcium_xml
@@ -240,6 +238,7 @@ Gated_release_final
 │
 └── patient
     └── <patient_id>
+```text
 
 ------------------------------------------------------------------------
 
