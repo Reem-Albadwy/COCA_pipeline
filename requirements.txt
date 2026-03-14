@@ -1,0 +1,9 @@
+torch
+monai
+numpy
+pandas
+scikit-learn
+SimpleITK
+nibabel
+pyradiomics
+pyyaml

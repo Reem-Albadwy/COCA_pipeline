@@ -1,0 +1,23 @@
+# Radiomics/radiomics_params.yaml
+binWidth: 25
+resampledPixelSpacing: null
+interpolator: sitkBSpline
+verbose: true
+
+featureClasses:
+  shape:
+    - Sphericity
+    - SurfaceVolumeRatio
+    - Maximum3DDiameter
+  glcm:
+    - Contrast
+    - Correlation
+    - Idm
+  glszm:
+    - SmallAreaEmphasis
+    - LargeAreaEmphasis
+    - ZonePercentage
+  glrlm:
+    - ShortRunEmphasis
+    - LongRunEmphasis
+    - RunPercentage
