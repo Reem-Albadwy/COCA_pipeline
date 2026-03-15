@@ -238,9 +238,8 @@ Gated_release_final
 │
 └── patient
     └── <patient_id>
-
+```
 ------------------------------------------------------------------------
-```text
 # How to Run the Pipeline
 
 ## 1 Set dataset path
