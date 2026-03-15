@@ -29,7 +29,7 @@ reproducibility, and flexibility**
 
 The following diagram summarizes the full preprocessing and radiomics pipeline.
 
-![Pipeline Flowchart](docs/pipeline_flowchart.png)
+![Pipeline Flowchart](docs/Final flowchart.jpeg)
 
 ------------------------------------------------------------------------
 
