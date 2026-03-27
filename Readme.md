@@ -1,8 +1,8 @@
 # COCA Dataset Preprocessing & Radiomics Pipeline
 
-## Project Overview
+## Task Overview
 
-This project implements a complete preprocessing and radiomics analysis
+This evaluation task implements a complete preprocessing and radiomics analysis
 pipeline for the **COCA (Coronary Calcium) dataset**.
 
 The goal is to build a **modular and reproducible pipeline** that
@@ -35,7 +35,7 @@ The following diagram summarizes the full preprocessing and radiomics pipeline.
 
 # Justification
 
-In this project, a comprehensive **preprocessing and data loading
+In this task, a comprehensive **preprocessing and data loading
 pipeline** was implemented for the COCA dataset to ensure
 **reproducibility, efficiency, and compatibility with downstream
 tasks**.
